@@ -5,6 +5,11 @@ VisualStudioVersion = 15.0.27130.2010
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "neural-net-tutorial", "neural-net-tutorial\neural-net-tutorial.vcxproj", "{BB4AD986-92ED-405B-91F3-C6056B5504D4}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{D154DA43-5299-4519-A2FD-CDAC78E3B40B}"
+	ProjectSection(SolutionItems) = preProject
+		training.txt = training.txt
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
